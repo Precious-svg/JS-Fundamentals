@@ -1,2 +1,2 @@
-let js = "Javascript is amazing"
-console.log(js);
+let myVar = "Javascript is amazing"
+console.log(myVar);
