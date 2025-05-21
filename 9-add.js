@@ -6,7 +6,7 @@ function add(a, b) {
   const num2 = parseInt(process.argv[3]);  // Parse the second argument as an integer
   
   if (isNaN(num1) || isNaN(num2)) {
-    console.log("NAN");
+    console.log("NaN");
   } else {
     console.log(add(num1, num2));  // Call add() and print the result
   }
